@@ -252,6 +252,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Rember](https://github.com/rember/rember-mcp)** - Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats
 - **[Render](https://render.com/docs/mcp-server)** - The official Render MCP server: spin up new services, run queries against your databases, and debug rapidly with direct access to service metrics and logs.
 - **[RevenueCat](https://www.revenuecat.com/docs/tools/mcp/overview)** - Manage your In-app-purchases in [RevenueCat](https://www.revenuecat.com) without leaving your AI coding environment.
+- **[Rhumb](https://github.com/supertrained/rhumb)** - Discover and score APIs for AI agents. 645+ services evaluated across 20 dimensions (auth, error handling, idempotency, sandbox, schema stability). 16 MCP tools. Zero signup required.
 - **[Riza](https://github.com/riza-io/riza-mcp)** - Arbitrary code execution and tool-use platform for LLMs by [Riza](https://riza.io)
 - **[Root Signals](https://github.com/root-signals/root-signals-mcp)** - Equip AI agents with evaluation and self-improvement capabilities with [Root Signals](https://www.rootsignals.ai/)
 - **[Routine](https://github.com/routineco/mcp-server)** - MCP server to interact with [Routine](https://routine.co/): calendars, tasks, notes, etc.
